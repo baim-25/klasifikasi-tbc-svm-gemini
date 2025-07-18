@@ -13,10 +13,4 @@ Aplikasi ini menggunakan algoritma SVM untuk klasifikasi penyakit TBC berdasarka
 - Streamlit (UI)
 - Gemini API
 
-## ▶️ Cara Menjalankan
-```bash
-pip install -r requirements.txt
-streamlit run app/app.py
-
-
-Dikembangkan oleh Juniansyah Abdul R Soulisa sebagai persyartan tugas akhir ITB - STIKOM Ambon.
+### Dikembangkan oleh Juniansyah Abdul R Soulisa sebagai persyartan tugas akhir ITB - STIKOM Ambon.
