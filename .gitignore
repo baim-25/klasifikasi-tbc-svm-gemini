@@ -1,0 +1,17 @@
+# Setup VSCODE
+.vscode
+
+# Setup Virtual Environment
+env
+
+# File rahasia
+.env
+
+# Model
+models
+
+# Python chace
+__pychahe__/
+*.pyc
+
+
